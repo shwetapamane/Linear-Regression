@@ -1,4 +1,5 @@
 📊 Linear Regression: Marketing Spend vs. Sales Prediction
+
 📝 Overview
 This project explores how different marketing channels (TV, Radio, Newspaper) influence product sales using linear regression. The goal is to predict total sales based on advertising spend across these three mediums.
 
